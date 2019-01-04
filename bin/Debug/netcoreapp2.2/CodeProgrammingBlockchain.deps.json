@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "271b88e89aaf5515f09322d5aabca7524cfa681d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CodeProgrammingBlockchain/1.0.0": {
+        "dependencies": {
+          "NBitcoin.Mono": "3.0.0.49"
+        },
+        "runtime": {
+          "CodeProgrammingBlockchain.dll": {}
+        }
+      },
+      "NBitcoin.Mono/3.0.0.49": {
+        "runtime": {
+          "lib/net45/NBitcoin.dll": {
+            "assemblyVersion": "3.0.0.49",
+            "fileVersion": "3.0.0.49"
+          },
+          "lib/net45/Newtonsoft.Json.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.1.19813"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeProgrammingBlockchain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NBitcoin.Mono/3.0.0.49": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R2RYJi+73wAeF76jh5XeI02O4id6yAdyZLNuI+ijnWfuA9F5yIYif9Kt57OLHeQl+vT0oXufFJ4E1CbHh5xKBw==",
+      "path": "nbitcoin.mono/3.0.0.49",
+      "hashPath": "nbitcoin.mono.3.0.0.49.nupkg.sha512"
+    }
+  }
+}

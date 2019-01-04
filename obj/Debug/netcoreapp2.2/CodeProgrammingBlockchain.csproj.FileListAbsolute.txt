@@ -1,0 +1,11 @@
+/home/murray/CodeProgrammingBlockchain/bin/Debug/netcoreapp2.2/CodeProgrammingBlockchain.deps.json
+/home/murray/CodeProgrammingBlockchain/bin/Debug/netcoreapp2.2/CodeProgrammingBlockchain.runtimeconfig.json
+/home/murray/CodeProgrammingBlockchain/bin/Debug/netcoreapp2.2/CodeProgrammingBlockchain.runtimeconfig.dev.json
+/home/murray/CodeProgrammingBlockchain/bin/Debug/netcoreapp2.2/CodeProgrammingBlockchain.dll
+/home/murray/CodeProgrammingBlockchain/bin/Debug/netcoreapp2.2/CodeProgrammingBlockchain.pdb
+/home/murray/CodeProgrammingBlockchain/obj/Debug/netcoreapp2.2/CodeProgrammingBlockchain.csprojAssemblyReference.cache
+/home/murray/CodeProgrammingBlockchain/obj/Debug/netcoreapp2.2/CodeProgrammingBlockchain.csproj.CoreCompileInputs.cache
+/home/murray/CodeProgrammingBlockchain/obj/Debug/netcoreapp2.2/CodeProgrammingBlockchain.AssemblyInfoInputs.cache
+/home/murray/CodeProgrammingBlockchain/obj/Debug/netcoreapp2.2/CodeProgrammingBlockchain.AssemblyInfo.cs
+/home/murray/CodeProgrammingBlockchain/obj/Debug/netcoreapp2.2/CodeProgrammingBlockchain.dll
+/home/murray/CodeProgrammingBlockchain/obj/Debug/netcoreapp2.2/CodeProgrammingBlockchain.pdb
