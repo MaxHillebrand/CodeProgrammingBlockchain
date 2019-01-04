@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NBitcoin.Mono" Version="3.0.0.49" />
+    <PackageReference Include="NBitcoin" Version="4.1.1.74" />
+    <PackageReference Include="QBitNinja.Client" Version="1.0.3.47" />
   </ItemGroup>
 
 </Project>
